@@ -24,14 +24,6 @@ Update this section to match your project's dependencies.
 - **Database:** MongoDB or another database, if configured
 - **Version Control:** Git and GitHub
 
-## 📸 Application Preview
-
-Add screenshots of your application here to help visitors understand the interface.
-
-```md
-![Todo App Screenshot](./screenshots/todo-app.png)
-```
-
 Replace the example image path with the actual location of your screenshot.
 
 ## 🚀 Getting Started
